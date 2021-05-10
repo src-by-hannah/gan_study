@@ -1,6 +1,6 @@
 # gan_study
 
-## 참조 도서
+### 참조 도서
 타리크라시드, "GAN 첫걸음", 한빛미디어 (github : https://github.com/makeyourownneuralnetwork/gan)
 
 ---
